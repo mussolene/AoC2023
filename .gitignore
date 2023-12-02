@@ -137,4 +137,3 @@ dmypy.json
 !.vscode/launch-example.json
 
 *.code-workspace
-*.txt
